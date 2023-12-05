@@ -18,6 +18,7 @@ https://huggingface.co/playgroundai/playground-v2-1024px-aesthetic
 https://huggingface.co/playgroundai/playground-v2-1024px-aesthetic/blob/main/LICENSE.md
 
 ## Output
+![Screenshot 2023-12-06 010729](https://github.com/camenduru/playground-colab/assets/54370274/47652ddd-1276-4027-911e-9360b3c4c93f)
 
 ## Sponsor
 https://modelslab.com
