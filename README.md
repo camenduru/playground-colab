@@ -9,7 +9,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/playground-colab/blob/main/playground_v2_colab.ipynb) | playground_v2_colab
 
 ## Page
-https://playground.com/
+https://blog.playgroundai.com/playground-v2 <br />
 
 ## Model
 https://huggingface.co/playgroundai/playground-v2-1024px-aesthetic
